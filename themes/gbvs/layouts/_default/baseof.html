@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.tmpl" . -}}
+  <body>
+    {{- partial "header.tmpl" . -}}
+    <div id="content">
+      {{- block "main" . }}{{- end }}
+    </div>
+    {{- partial "footer.tmpl" . -}}
+  </body>
+</html>

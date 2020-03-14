@@ -1,0 +1,35 @@
+body {
+  font-size: 1rem;
+  font-family: sans-serif;
+  line-height: 1.2;
+}
+
+header h1 {
+  font-size: 130%;
+  font-weight: bold;
+  margin: 10px;
+}
+
+/* Navbar */
+nav ul {
+  list-style: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #111;
+}
+/* End Navbar */

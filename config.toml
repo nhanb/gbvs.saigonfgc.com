@@ -1,4 +1,4 @@
 baseURL = "https://gbvs.saigonfgc.com/"
 languageCode = "vi-vn"
-title = "Granblue Versus"
-theme = "harbor"
+title = "Saigon Granblue Versus"
+theme = "gbvs"
