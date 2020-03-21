@@ -2,6 +2,7 @@
 title: Cách phòng thủ
 date: 2020-03-14T22:46:21+07:00
 category: Hướng dẫn game
+author: Sennette
 ---
 
 # Đỡ dưới đất

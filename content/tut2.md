@@ -2,6 +2,7 @@
 title: Các ký hiệu cần biết
 date: 2020-03-14T22:35:36+07:00
 category: Hướng dẫn game
+author: Sennette
 ---
 
 

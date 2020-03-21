@@ -23,7 +23,7 @@
         <header>
           <h1 class="article-title">{{ article.title|striptags }}</h1>
           <time datetime="{{ article.date }}">
-            {{ article.date|vnstrftime }}
+            <strong>{{ article.author }}</strong> viết ngày {{ article.date|vnstrftime }}
           </time>
         </header>
 

@@ -29,6 +29,10 @@ p {
   margin: 1rem 0;
 }
 
+strong {
+  font-weight: bold;
+}
+
 ul,
 ol {
   margin-left: 40px;

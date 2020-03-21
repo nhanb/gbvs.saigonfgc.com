@@ -2,6 +2,7 @@
 title: Điều khiển cơ bản
 date: 2020-03-14T21:24:17+07:00
 category: Hướng dẫn game
+author: Sennette
 ---
 
 

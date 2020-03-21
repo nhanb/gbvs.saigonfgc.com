@@ -2,6 +2,7 @@
 title: Cách di chuyển
 date: 2020-03-14T22:41:55+07:00
 category: Hướng dẫn game
+author: Sennette
 ---
 
 
