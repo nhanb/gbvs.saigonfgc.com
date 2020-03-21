@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block header_extras %}
+  <link rel="stylesheet" href="/theme/css/index.css">
+  <meta property="og:title" content="{{ SITENAME }}" />
+  <meta property="og:description" content="{{ SITESUBTITLE }}" />
+  {% if MOTHERFUCKING_DEFAULT_THUMB %}
+  <meta property="og:image" content="{{ SITEURL }}/{{ MOTHERFUCKING_DEFAULT_THUMB }}" />
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+
+<article>
+  <p>
+    <img src="https://p.caophim.net/68.jpeg" alt="anime player">
+    <em>Anime player circa 2020</em>
+  </p>
+
+  <p>
+    Đây là nơi tổng hợp thông tin, tài liệu liên quan tới Granblue Fantasy
+    Versus (là game đối kháng, không phải mobile<del>shit</del> game).
+  </p>
+</article>
+
+{% endblock %}

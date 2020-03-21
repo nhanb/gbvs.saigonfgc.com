@@ -1,15 +1,14 @@
 ---
-title: "Các ký hiệu cần biết"
+title: Các ký hiệu cần biết
 date: 2020-03-14T22:35:36+07:00
-draft: false
+category: Hướng dẫn game
 ---
 
 
 # Ký hiệu phím số
 
-{{< figure
-  src="/tut2/notation.jpg"
-  title="Người sử dụng bàn phím tenkeyless sẽ cảm thấy lạ lẫm" >}}
+![](/images/tut2/notation.jpg)
+*Người sử dụng bàn phím tenkeyless sẽ cảm thấy lạ lẫm*
 
 Do có nhiều công cụ để điều khiển game, như tay cầm, stick, bàn phím, vô lăng,
 v.v, nên đã vô tình tạo ra rào cản ngôn ngữ giữa các người chơi, (ví dụ, X trên

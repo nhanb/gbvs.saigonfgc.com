@@ -1,7 +1,7 @@
 ---
-title: "Cách tấn công"
+title: Cách tấn công
 date: 2020-03-14T22:46:16+07:00
-draft: false
+category: Hướng dẫn game
 ---
 
 

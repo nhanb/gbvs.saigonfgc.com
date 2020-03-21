@@ -1,15 +1,14 @@
 ---
-title: "Điều khiển cơ bản"
+title: Điều khiển cơ bản
 date: 2020-03-14T21:24:17+07:00
-draft: false
+category: Hướng dẫn game
 ---
 
 
 # Giao diện
 
-{{< figure
-  src="/tut1/ui.png"
-  title="Màn hình đấu chính của game" >}}
+![](/images/tut1/ui.png)
+*Màn hình đấu chính của game*
 
 1. Số hiệp đấu mà người chơi đã thắng
 2. Các kỹ năng hiện có. Kỹ năng không khả dụng sẽ bị tối đi.
@@ -23,9 +22,8 @@ draft: false
 
 # Điều khiển cơ bản
 
-{{< figure
-  src="/tut1/controller.png"
-  title="Các nút trên tay cầm Dual Shock 4" >}}
+![](/images/tut1/controller.png)
+*Các nút trên tay cầm Dual Shock 4*
 
 - Các nút điều hướng: dùng để di chuyển, nhảy và đỡ.
 - Nút vuông: đánh nhẹ (Light Attack), có ký hiệu nâng cao là L
@@ -42,43 +40,40 @@ draft: false
 
 ## Tránh nhận sát thương
 
-{{< figure
-  src="/tut1/ne.png"
-  title="Để né tại chỗ, ấn tổ hợp phím Lùi + G, tuy nhiên nếu bạn né sớm quá thì khúc cuối sẽ có sơ hở." >}}
+![](/images/tut1/ne.png)
+*Để né tại chỗ, ấn tổ hợp phím Lùi + G, tuy nhiên nếu bạn né sớm quá thì khúc
+cuối sẽ có sơ hở.*
 
-{{< figure
-  src="/tut1/lan.png"
-  title="Để lướt/lăn tới, ấn tổ hợp phím Tới + G. Hành động này không né được chụp/vật và đòn đánh dưới." >}}
+![](/images/tut1/lan.png)
+*Để lướt/lăn tới, ấn tổ hợp phím Tới + G. Hành động này không né được chụp/vật
+và đòn đánh dưới.*
 
 
 ## Kỹ năng
 
-{{< figure
-  src="/tut1/exdp.png"
-  title="Kỹ năng Tới + S của Katalina" >}}
+![](/images/tut1/exdp.png)
+*Kỹ năng Tới + S của Katalina*
 
 Ấn S để sử dụng kỹ năng của nhân vật, mỗi nhân vật có 3 hoặc 4 kỹ năng được gán
 vào nút S, sử dụng bằng cách ấn S, hoặc nút điều hướng + S (ví dụ: Lùi +S)
 
-{{< figure
-  src="/tut1/cooldown.png"
-  title="Sau khi sử dụng kỹ năng, biểu tượng sẽ bị làm tối và không thể sử dụng cho tới khi kết thúc thời gian hồi chiêu" >}}
+![](/images/tut1/cooldown.png)
+*Sau khi sử dụng kỹ năng, biểu tượng sẽ bị làm tối và không thể sử dụng cho tới
+khi kết thúc thời gian hồi chiêu*
 
 
 ## Sky Bound Art - SBA
 
-{{< figure
-  src="/tut1/sba.png"
-  title="Tempest Blade" >}}
+![](/images/tut1/sba.png)
+*Tempest Blade*
 
 Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S. Có thể sử dụng khi thanh SBA đầy.
 
 
 ## Super Sky Bound Art - SSBA
 
-{{< figure
-  src="/tut1/ssba.png"
-  title="Catastrophe" >}}
+![](/images/tut1/ssba.png)
+*Catastrophe*
 
 Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S + U. Có thể sử dụng khi thanh SBA
 đầy và máu của bạn ở dưới mức 30%.
