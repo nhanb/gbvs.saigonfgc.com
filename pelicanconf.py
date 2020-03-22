@@ -26,7 +26,6 @@ DEFAULT_PAGINATION = 10
 THEME = "gbvs-theme"
 
 MENUITEMS = [
-    ("Trang chủ", "/"),
     ("Hướng dẫn game", "/category/huong-dan-game.html"),
 ]
 CURRENT_YEAR = "2020"

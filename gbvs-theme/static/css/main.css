@@ -33,6 +33,10 @@ strong {
   font-weight: bold;
 }
 
+iframe {
+  width: 100%;
+}
+
 ul,
 ol {
   margin-left: 40px;
@@ -75,13 +79,15 @@ footer {
   border-top: 1px solid black;
   font-size: 0.9rem;
 }
-footer a {
+footer a,
+article a {
   text-decoration: underline;
 }
 
 article p,
 article ul,
 article ol,
+article iframe,
 article em {
   max-width: 750px;
 }
@@ -97,9 +103,6 @@ article img + em {
   display: block;
   margin-bottom: 1rem;
   color: darkgreen;
-}
-article img + em a {
-  text-decoration: underline;
 }
 
 article header {
