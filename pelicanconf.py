@@ -37,5 +37,5 @@ STATIC_PATHS = ["images", "extra/CNAME"]
 EXTRA_PATH_METADATA = {
     "extra/CNAME": {"path": "CNAME"},
 }
-FOOTER_TEXT = 'Làm bằng ♥ và hơi nhiều <a href="https://www.bachhoaxanh.com/tim-kiem?key=georgia+max">Georgia Max</a>'
+FOOTER_TEXT = 'Làm bằng ♥ và hơi nhiều <a href="https://user-images.githubusercontent.com/1446315/77242828-64e4bc80-6c35-11ea-8a89-605489dad646.png">Georgia Max</a>'
 TYPOGRIFY = True

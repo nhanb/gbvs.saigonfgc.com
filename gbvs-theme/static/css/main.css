@@ -98,6 +98,9 @@ article img + em {
   margin-bottom: 1rem;
   color: darkgreen;
 }
+article img + em a {
+  text-decoration: underline;
+}
 
 article header {
   text-align: center;
