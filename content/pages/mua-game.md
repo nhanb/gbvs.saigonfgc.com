@@ -31,4 +31,8 @@ Digital: tùy tài khoản PSN của bạn ở đâu. Đây là link [store
 Mỹ](https://store.playstation.com/en-us/product/UP1023-CUSA17197_00-ENGBVSCHARACTERS)
 - $80 cho character pass set.
 
-Đĩa: Đầy ra. Nhưng nhớ kiểm tra bản bạn mua có bao character pass chưa.
+Đĩa: [đầy][mimi] [ra][halo], nhưng lưu ý là ngay cả bản Premium ở mimi shop
+cũng không bao gồm character pass.
+
+[mimi]: https://mimigame.vn/products/785-granblue-fantasy-versus-premium-edition?variant=1052335526
+[halo]: https://haloshop.vn/granblue-fantasy-versus-us-ps4.html
