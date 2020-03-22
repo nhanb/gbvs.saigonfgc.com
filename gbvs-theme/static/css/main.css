@@ -119,3 +119,15 @@ article h2 {
 .article-list li {
   margin: 1rem 0;
 }
+
+@media (max-width: 550px) {
+  html {
+    padding: 0;
+    font-size: 115%;
+  }
+
+  #main-section,
+  footer {
+    padding: 0 10px;
+  }
+}

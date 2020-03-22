@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 AUTHOR = "Saigon FGC"
 SITENAME = "GBVS Sài Gòn"
-SITEURL = "https://gbvs.saigonfgc.com"
+SITEURL = ""
 
 PATH = "content"
 
@@ -17,19 +17,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (
-    ("Pelican", "http://getpelican.com/"),
-    ("Python.org", "http://python.org/"),
-    ("Jinja2", "http://jinja.pocoo.org/"),
-    ("You can modify those links in your config file", "#"),
-)
-
-# Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
 
 DEFAULT_PAGINATION = 10
 
@@ -38,7 +25,10 @@ DEFAULT_PAGINATION = 10
 
 THEME = "gbvs-theme"
 
-MENUITEMS = [("Trang chủ", "/"), ("Hướng dẫn game", "/category/huong-dan-game.html")]
+MENUITEMS = [
+    ("Trang chủ", "/"),
+    ("Hướng dẫn game", "/category/huong-dan-game.html"),
+]
 CURRENT_YEAR = "2020"
 JINJA_FILTERS = {
     "vnstrftime": lambda date: f"{date.day} tháng {date.month}, {date.year}",
@@ -48,3 +38,4 @@ EXTRA_PATH_METADATA = {
     "extra/CNAME": {"path": "CNAME"},
 }
 FOOTER_TEXT = 'Làm bằng ♥ và hơi nhiều <a href="https://www.bachhoaxanh.com/tim-kiem?key=georgia+max">Georgia Max</a>'
+TYPOGRIFY = True
