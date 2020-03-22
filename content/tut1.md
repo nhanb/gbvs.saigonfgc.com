@@ -8,7 +8,7 @@ author: Sennette
 
 # Giao diện
 
-![](/images/tut1/ui.png)
+![màn hình chính](/images/tut1/ui.png)
 *Màn hình đấu chính của game*
 
 1. Số hiệp đấu mà người chơi đã thắng
@@ -23,7 +23,7 @@ author: Sennette
 
 # Điều khiển cơ bản
 
-![](/images/tut1/controller.png)
+![điều khiển](/images/tut1/controller.png)
 *Các nút trên tay cầm Dual Shock 4*
 
 - Các nút điều hướng: dùng để di chuyển, nhảy và đỡ.
@@ -41,31 +41,31 @@ author: Sennette
 
 ## Tránh nhận sát thương
 
-![](/images/tut1/ne.png)
+![né](/images/tut1/ne.png)
 *Để né tại chỗ, ấn tổ hợp phím Lùi + G, tuy nhiên nếu bạn né sớm quá thì khúc
 cuối sẽ có sơ hở.*
 
-![](/images/tut1/lan.png)
+![lăn](/images/tut1/lan.png)
 *Để lướt/lăn tới, ấn tổ hợp phím Tới + G. Hành động này không né được chụp/vật
 và đòn đánh dưới.*
 
 
 ## Kỹ năng
 
-![](/images/tut1/exdp.png)
+![ex dp](/images/tut1/exdp.png)
 *Kỹ năng Tới + S của Katalina*
 
 Ấn S để sử dụng kỹ năng của nhân vật, mỗi nhân vật có 3 hoặc 4 kỹ năng được gán
 vào nút S, sử dụng bằng cách ấn S, hoặc nút điều hướng + S (ví dụ: Lùi +S)
 
-![](/images/tut1/cooldown.png)
+![cooldown](/images/tut1/cooldown.png)
 *Sau khi sử dụng kỹ năng, biểu tượng sẽ bị làm tối và không thể sử dụng cho tới
 khi kết thúc thời gian hồi chiêu*
 
 
 ## Sky Bound Art - SBA
 
-![](/images/tut1/sba.png)
+![SSA](/images/tut1/sba.png)
 *Tempest Blade*
 
 Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S. Có thể sử dụng khi thanh SBA đầy.
@@ -73,7 +73,7 @@ Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S. Có thể sử d�
 
 ## Super Sky Bound Art - SSBA
 
-![](/images/tut1/ssba.png)
+![SSBA](/images/tut1/ssba.png)
 *Catastrophe*
 
 Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S + U. Có thể sử dụng khi thanh SBA

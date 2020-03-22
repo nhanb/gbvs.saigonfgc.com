@@ -8,7 +8,7 @@ author: Sennette
 
 # Ký hiệu phím số
 
-![](/images/tut2/notation.jpg)
+![ký hiệu](/images/tut2/notation.jpg)
 *Người sử dụng bàn phím tenkeyless sẽ cảm thấy lạ lẫm*
 
 Do có nhiều công cụ để điều khiển game, như tay cầm, stick, bàn phím, vô lăng,

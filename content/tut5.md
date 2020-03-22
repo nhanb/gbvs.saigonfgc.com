@@ -21,7 +21,7 @@ Một dấu "!" là bạn không đỡ đòn đánh dưới.
 
 Hai dấu "!!" là bạn không đỡ đòn đánh cao.
 
-![](/images/tut5/overhead.jpg)
+![overhead](/images/tut5/overhead.jpg)
 
 # Đỡ trên không
 

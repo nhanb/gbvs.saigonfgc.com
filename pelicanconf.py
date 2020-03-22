@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 AUTHOR = "Saigon FGC"
 SITENAME = "GBVS Sài Gòn"
-SITEURL = ""
+SITEURL = "https://gbvs.saigonfgc.com"
 
 PATH = "content"
 
