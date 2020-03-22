@@ -25,12 +25,9 @@ function konamiCode(callback) {
 
 function showClip() {
   document.body.innerHTML = `
-  <iframe
-    style="width:100%; height:100%; position:fixed; top:0; bottom:0; left:0; right:0;"
-    src="https://www.youtube-nocookie.com/embed/wew9zHCJYyI?autoplay=1&controls=0"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+  <video autoplay controls style="height:99vh; width:100%;">
+    <source src="https://junk.imnhan.com/hsg-op.mp4" type="video/mp4">
+  </video>
   <style>html {padding: 0; margin: 0}</style>
     `;
 }
