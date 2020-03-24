@@ -1,0 +1,12 @@
+article {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+article a {
+  text-decoration: none;
+}
+
+article li {
+  margin: 0.5rem 0;
+}

@@ -1,15 +1,16 @@
 ---
 title: Điều khiển cơ bản
-date: 2020-03-14T21:24:17+07:00
+date: 2020-03-14
+vndate: 14 tháng 3, 2020
 category: Hướng dẫn game
 author: Sennette
+is-article: true
 ---
 
 
 # Giao diện
 
-![màn hình chính](/images/tut1/ui.png)
-*Màn hình đấu chính của game*
+![Màn hình đấu chính của game](ui.png)
 
 1. Số hiệp đấu mà người chơi đã thắng
 2. Các kỹ năng hiện có. Kỹ năng không khả dụng sẽ bị tối đi.
@@ -23,8 +24,7 @@ author: Sennette
 
 # Điều khiển cơ bản
 
-![điều khiển](/images/tut1/controller.png)
-*Các nút trên tay cầm Dual Shock 4*
+![Các nút trên tay cầm Dual Shock 4](controller.png)
 
 - Các nút điều hướng: dùng để di chuyển, nhảy và đỡ.
 - Nút vuông: đánh nhẹ (Light Attack), có ký hiệu nâng cao là L
@@ -41,40 +41,34 @@ author: Sennette
 
 ## Tránh nhận sát thương
 
-![né](/images/tut1/ne.png)
-*Để né tại chỗ, ấn tổ hợp phím Lùi + G, tuy nhiên nếu bạn né sớm quá thì khúc
-cuối sẽ có sơ hở.*
+![Để né tại chỗ, ấn tổ hợp phím Lùi + G, tuy nhiên nếu bạn né sớm quá thì khúc
+cuối sẽ có sơ hở.](ne.png)
 
-![lăn](/images/tut1/lan.png)
-*Để lướt/lăn tới, ấn tổ hợp phím Tới + G. Hành động này không né được chụp/vật
-và đòn đánh dưới.*
+![Để lướt/lăn tới, ấn tổ hợp phím Tới + G. Hành động này không né được chụp/vật
+và đòn đánh dưới.](lan.png)
 
 
 ## Kỹ năng
 
-![ex dp](/images/tut1/exdp.png)
-*Kỹ năng Tới + S của Katalina*
+![Kỹ năng Tới + S của Katalina](exdp.png)
 
 Ấn S để sử dụng kỹ năng của nhân vật, mỗi nhân vật có 3 hoặc 4 kỹ năng được gán
 vào nút S, sử dụng bằng cách ấn S, hoặc nút điều hướng + S (ví dụ: Lùi +S)
 
-![cooldown](/images/tut1/cooldown.png)
-*Sau khi sử dụng kỹ năng, biểu tượng sẽ bị làm tối và không thể sử dụng cho tới
-khi kết thúc thời gian hồi chiêu*
+![Sau khi sử dụng kỹ năng, biểu tượng sẽ bị làm tối và không thể sử dụng cho tới
+khi kết thúc thời gian hồi chiêu](cooldown.png)
 
 
 ## Sky Bound Art - SBA
 
-![SSA](/images/tut1/sba.png)
-*Tempest Blade*
+![Tempest Blade](sba.png)
 
 Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S. Có thể sử dụng khi thanh SBA đầy.
 
 
 ## Super Sky Bound Art - SSBA
 
-![SSBA](/images/tut1/ssba.png)
-*Catastrophe*
+![Catastrophe](ssba.png)
 
 Thực hiện bằng cách ấn tổ hợp Xuống, Tới + S + U. Có thể sử dụng khi thanh SBA
 đầy và máu của bạn ở dưới mức 30%.

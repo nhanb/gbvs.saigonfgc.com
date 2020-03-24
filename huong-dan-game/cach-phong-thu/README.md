@@ -1,8 +1,10 @@
 ---
 title: Cách phòng thủ
-date: 2020-03-14T22:46:21+07:00
+date: 2020-03-14
+vndate: 14 tháng 3, 2020
 category: Hướng dẫn game
 author: Sennette
+is-article: true
 ---
 
 # Đỡ dưới đất
@@ -21,7 +23,7 @@ Một dấu "!" là bạn không đỡ đòn đánh dưới.
 
 Hai dấu "!!" là bạn không đỡ đòn đánh cao.
 
-![overhead](/images/tut5/overhead.jpg)
+![Overhead!!](overhead.jpg)
 
 # Đỡ trên không
 

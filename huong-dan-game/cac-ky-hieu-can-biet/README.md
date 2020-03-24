@@ -1,15 +1,16 @@
 ---
 title: Các ký hiệu cần biết
-date: 2020-03-14T22:35:36+07:00
+date: 2020-03-14
+vndate: 14 tháng 3, 2020
 category: Hướng dẫn game
 author: Sennette
+is-article: true
 ---
 
 
 # Ký hiệu phím số
 
-![ký hiệu](/images/tut2/notation.jpg)
-*Người sử dụng bàn phím tenkeyless sẽ cảm thấy lạ lẫm*
+![Người sử dụng bàn phím tenkeyless sẽ cảm thấy lạ lẫm](notation.jpg)
 
 Do có nhiều công cụ để điều khiển game, như tay cầm, stick, bàn phím, vô lăng,
 v.v, nên đã vô tình tạo ra rào cản ngôn ngữ giữa các người chơi, (ví dụ, X trên

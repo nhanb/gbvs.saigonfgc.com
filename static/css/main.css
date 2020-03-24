@@ -88,7 +88,8 @@ article p,
 article ul,
 article ol,
 article iframe,
-article em {
+article em,
+article figcaption {
   max-width: 750px;
 }
 article img {
@@ -97,7 +98,7 @@ article img {
   display: block;
   border: 4px solid black;
 }
-article img + em {
+article figcaption {
   margin-top: 0.2rem;
   font-size: 0.9rem;
   display: block;
@@ -111,19 +112,6 @@ article header {
 article h1,
 article h2 {
   margin-top: 1rem;
-}
-
-.article-list {
-  font-weight: bold;
-  font-size: 1.5rem;
-}
-.article-list time {
-  font-weight: normal;
-  font-size: 1rem;
-  display: block;
-}
-.article-list li {
-  margin: 1rem 0;
 }
 
 @media (max-width: 550px) {
