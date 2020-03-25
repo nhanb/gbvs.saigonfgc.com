@@ -1,22 +1,22 @@
 @font-face {
   font-family: "Charis SIL";
-  src: url(CharisSIL-R.woff);
+  src: url(CharisSILViet-R.woff);
 }
 @font-face {
   font-family: "Charis SIL";
   font-style: italic;
-  src: url(CharisSIL-I.woff);
+  src: url(CharisSILViet-I.woff);
 }
 
 @font-face {
   font-family: "Charis SIL";
   font-weight: bold;
-  src: url(CharisSIL-B.woff);
+  src: url(CharisSILViet-B.woff);
 }
 
 @font-face {
   font-family: "Charis SIL";
   font-weight: bold;
   font-style: italic;
-  src: url(CharisSIL-BI.woff);
+  src: url(CharisSILViet-BI.woff);
 }

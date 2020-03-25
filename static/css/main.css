@@ -1,3 +1,7 @@
+:root {
+  --figure-border: 1px solid black;
+}
+
 html {
   font-family: "Charis SIL", serif;
   font-size: 20px;
@@ -54,23 +58,26 @@ header h1 {
   padding: 5px;
 }
 
-nav {
-  background-color: black;
-  padding: 5px 0;
-  color: white;
-  display: flex;
-  justify-content: space-between;
-}
 nav ul {
+  background-color: black;
+  color: white;
   margin: 0;
+  padding: 0;
   list-style-type: none;
-}
-nav li {
-  display: inline-block;
-  margin: 0 10px;
+  display: flex;
+  border: 2px solid black;
 }
 nav a {
   color: white;
+  padding: 0 10px;
+  display: inline-block;
+  line-height: 1.7rem;
+}
+
+nav a:hover {
+  background-color: white;
+  color: black;
+  text-decoration: none;
 }
 
 footer {
@@ -92,18 +99,32 @@ article em,
 article figcaption {
   max-width: 750px;
 }
-article img {
-  margin-top: 1rem;
-  max-width: 100%;
-  display: block;
-  border: 4px solid black;
+
+figure {
+  border: var(--figure-border);
+  margin: 1rem 0;
+  display: inline-block;
+  background-color: floralwhite;
 }
-article figcaption {
-  margin-top: 0.2rem;
+figure + figure {
+  margin-top: 0;
+}
+figure img {
+  max-width: 100%;
+  border-bottom: var(--figure-border);
+}
+figure figcaption {
+  /* hack to prevent figcaption from expanding the figure's width: */
+  min-width: 100%;
+  width: 0;
+  /* end hack */
+  padding: 0 5px 5px 5px;
   font-size: 0.9rem;
-  display: block;
-  margin-bottom: 1rem;
-  color: darkgreen;
+}
+
+figure + p,
+p + figure {
+  margin-top: 0;
 }
 
 article header {
@@ -123,5 +144,14 @@ article h2 {
   #main-section,
   footer {
     padding: 0 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  nav ul {
+    flex-direction: column;
+  }
+  nav a {
+    width: 100%;
   }
 }
