@@ -2,8 +2,9 @@
 title: Tips by Jiyuna
 date: 2020-03-31
 vndate: 31 tháng 3, 2020
-author: Oscar
+author: Oscar & Rauden
 is-article: true
+extra-css: extra.css
 ---
 
 Dịch lại từ [clip của Jiyuna](https://youtu.be/d6DBPTVLccY).
@@ -54,8 +55,8 @@ Và shortcut input mash được:
 Ngoài ra game còn cho phép buffer nút tương tự Tekken nên bạn có thể dùng những
 mẹo sau đối với những chiêu cần bấm 2 nút cùng lúc. Ví dụ với Lancelot:
 
-- Giữ `6H`, mash `Ab` để wakeup SBA
-- Giữ `U`, mash `236Ab` để wakeup SSBA
+- Giữ `6H`, mash `Ab` để wakeup ex dp
+- Giữ `U`, mash `236Ab` để wakeup super
 
 <video controls>
   <source src="buffer.mp4" type="video/mp4">

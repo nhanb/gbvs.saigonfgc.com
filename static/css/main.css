@@ -113,6 +113,10 @@ article figcaption {
   max-width: 750px;
 }
 
+article video {
+  width: 100%;
+}
+
 figure {
   border: var(--figure-border);
   margin: 1rem 0;
