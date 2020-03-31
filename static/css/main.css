@@ -19,6 +19,11 @@ a:hover {
   text-decoration: underline;
 }
 
+code {
+  font-family: monospace;
+  background-color: #eee;
+}
+
 h1 {
   font-size: 1.5rem;
   font-weight: bold;
@@ -31,6 +36,13 @@ h2 {
 
 p {
   margin: 1rem 0;
+}
+
+h1 + video,
+h2 + video,
+ul + video,
+ol + video {
+  margin-top: 1rem;
 }
 
 strong {
@@ -96,6 +108,7 @@ article ul,
 article ol,
 article iframe,
 article em,
+article video,
 article figcaption {
   max-width: 750px;
 }
