@@ -2,7 +2,7 @@
 import subprocess
 from pathlib import Path
 
-FILENAME = "README.md"
+FILENAME = "index.md"
 TEMPLATE_ARG = "--template=template.html"
 
 
@@ -14,5 +14,5 @@ def build(infile: Path):
     print(f"{infile} -> {directory}/")
 
 
-for path in Path(".").rglob("README.md"):
+for path in Path(".").rglob(FILENAME):
     build(path)
