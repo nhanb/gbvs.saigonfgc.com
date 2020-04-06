@@ -53,7 +53,7 @@ Và shortcut input mash được:
 </video>
 
 Ngoài ra game còn cho phép buffer nút tương tự Tekken nên bạn có thể dùng những
-mẹo sau đối với những chiêu cần bấm 2 nút cùng lúc. Ví dụ với Lancelot:
+mẹo sau đối với những chiêu cần bấm 2 nút cùng lúc. Ví dụ với Percival:
 
 - Giữ `6H`, mash `Ab` để wakeup ex dp
 - Giữ `U`, mash `236Ab` để wakeup super
